@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-77:12
+MERGED from [:WebViewPlugin:] C:\Users\ensar\.gradle\caches\transforms-3\340258db46d71b1308885ea8cdafdf2d\transformed\jetified-WebViewPlugin\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ensar\.gradle\caches\transforms-3\b6fc3a8cae287642c57b5edd28bcc6ac\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ensar\.gradle\caches\transforms-3\05c292596d671412479aee05f01fdb8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ensar\.gradle\caches\transforms-3\27d1ee9f31d83f6b693a1bf75bd9da6c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-116
+	android:versionCode
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:117-157
+application
+ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-75:19
+MERGED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-75:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ensar\.gradle\caches\transforms-3\05c292596d671412479aee05f01fdb8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ensar\.gradle\caches\transforms-3\05c292596d671412479aee05f01fdb8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:WebViewPlugin:] C:\Users\ensar\.gradle\caches\transforms-3\340258db46d71b1308885ea8cdafdf2d\transformed\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [:WebViewPlugin:] C:\Users\ensar\.gradle\caches\transforms-3\340258db46d71b1308885ea8cdafdf2d\transformed\jetified-WebViewPlugin\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ensar\.gradle\caches\transforms-3\b6fc3a8cae287642c57b5edd28bcc6ac\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ensar\.gradle\caches\transforms-3\b6fc3a8cae287642c57b5edd28bcc6ac\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ensar\.gradle\caches\transforms-3\05c292596d671412479aee05f01fdb8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ensar\.gradle\caches\transforms-3\05c292596d671412479aee05f01fdb8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ensar\.gradle\caches\transforms-3\27d1ee9f31d83f6b693a1bf75bd9da6c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ensar\.gradle\caches\transforms-3\27d1ee9f31d83f6b693a1bf75bd9da6c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-25:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-28:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-31:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-51
+meta-data#unity.render-outside-safearea
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:9-34:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-57
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:9-37:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:9-40:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:9-64:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-47
+	android:windowSoftInputMode
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-52
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-56:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:17-57
+meta-data#notch_support
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-63:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-45
+provider#androidx.core.content.FileProvider
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:9-74:20
+	android:grantUriPermissions
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:13-47
+	android:authorities
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:13-76
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:13-73:76
+	android:resource
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:17-73
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:17-67

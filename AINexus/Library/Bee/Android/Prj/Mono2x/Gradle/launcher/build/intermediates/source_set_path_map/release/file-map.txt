@@ -1,0 +1,11 @@
+com.BEN.AINexus.launcher-core-1.6.0-0 C:\Users\ensar\.gradle\caches\transforms-3\0136b41920a7b977a567d41ca93bccaa\transformed\core-1.6.0\res
+com.BEN.AINexus.launcher-jetified-annotation-experimental-1.1.0-1 C:\Users\ensar\.gradle\caches\transforms-3\27d1ee9f31d83f6b693a1bf75bd9da6c\transformed\jetified-annotation-experimental-1.1.0\res
+com.BEN.AINexus.launcher-pngs-2 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.BEN.AINexus.launcher-resValues-3 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.BEN.AINexus.launcher-rs-4 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.BEN.AINexus.launcher-mergeReleaseResources-5 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.BEN.AINexus.launcher-mergeReleaseResources-6 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.BEN.AINexus.launcher-merged_res-7 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.BEN.AINexus.launcher-main-8 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.BEN.AINexus.launcher-release-9 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.BEN.AINexus.launcher-packaged_res-10 C:\Users\ensar\Downloads\proje\AI_Nexus\AINexus\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

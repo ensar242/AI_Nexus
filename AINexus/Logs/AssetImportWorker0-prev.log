@@ -1,0 +1,661 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.45f1 (a13dfa44d684) revision 10567162'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 7379 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ensar/Downloads/proje/AI_Nexus/AINexus
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62932
+Successfully changed project path to: C:/Users/ensar/Downloads/proje/AI_Nexus/AINexus
+C:/Users/ensar/Downloads/proje/AI_Nexus/AINexus
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20916]  Target information:
+
+Player connection [20916]  * "[IP] 10.196.213.197 [Port] 0 [Flags] 2 [Guid] 929852320 [EditorId] 929852320 [Version] 1048832 [Id] WindowsEditor(7,ENSAR242) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20916] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20916] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 2269.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.45f1 (a13dfa44d684)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ensar/Downloads/proje/AI_Nexus/AINexus/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5921 MB
+    Driver:   32.0.15.5612
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.076030 seconds.
+- Loaded All Assemblies, in  7.072 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 461 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.864 seconds
+Domain Reload Profiling: 7935ms
+	BeginReloadAssembly (6648ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (151ms)
+	LoadAllAssembliesAndSetupDomain (222ms)
+		LoadAssemblies (6637ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (218ms)
+			TypeCache.Refresh (216ms)
+				TypeCache.ScanAssembly (202ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (864ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (814ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (556ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (157ms)
+			ProcessInitializeOnLoadMethodAttributes (89ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.240 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.042 seconds
+Domain Reload Profiling: 7279ms
+	BeginReloadAssembly (314ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (5823ms)
+		LoadAssemblies (5840ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (202ms)
+				TypeCache.ScanAssembly (182ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1042ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (826ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (668ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 13.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3171 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.8 KB). Loaded Objects now: 3640.
+Memory consumption went from 123.7 MB to 123.6 MB.
+Total: 11.628500 ms (FindLiveObjects: 0.352800 ms CreateObjectMapping: 0.236200 ms MarkObjects: 10.274800 ms  DeleteObjects: 0.757500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 95512.081400 seconds.
+  path: Assets/AINexus/Images/VideoScreen/8-RUNAWAY.ML/7.PNG
+  artifactKey: Guid(f38010b93ea4fe540a4cfa86e73bb93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/8-RUNAWAY.ML/7.PNG using Guid(f38010b93ea4fe540a4cfa86e73bb93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8e891085050bad527fb11f112bc94d7f') in 0.208492 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 483.805941 seconds.
+  path: Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI
+  artifactKey: Guid(fe7482370d0de954fbeba9fe5573101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI using Guid(fe7482370d0de954fbeba9fe5573101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3cb0570a4df02e29986434310e9fe9bf') in 0.008681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.586815 seconds.
+  path: Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI/3.PNG
+  artifactKey: Guid(1629fcae69456594ebe9a60434a3f232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI/3.PNG using Guid(1629fcae69456594ebe9a60434a3f232) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '72bce14c475692be446d5a36a9c57e30') in 0.178678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.941695 seconds.
+  path: Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI/3.PNG
+  artifactKey: Guid(1629fcae69456594ebe9a60434a3f232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI/3.PNG using Guid(1629fcae69456594ebe9a60434a3f232) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bcba84c2aa1301eb7c7d892321de07ca') in 0.060678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.370975 seconds.
+  path: Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI/1.PNG
+  artifactKey: Guid(002a963d422283a49b1ed02a4198cef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/9-HAİLUO.AI/1.PNG using Guid(002a963d422283a49b1ed02a4198cef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8649687f83a879e6a75812b3c69a3fb0') in 0.045824 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1582.373298 seconds.
+  path: Assets/AINexus/Images/VideoScreen/10-MESHY.AI
+  artifactKey: Guid(c004bfd90002f65499a29dd2a2f996d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/10-MESHY.AI using Guid(c004bfd90002f65499a29dd2a2f996d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '36c6bf7fb55eafc0de167c58c4354ad5') in 0.014681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.976706 seconds.
+  path: Assets/AINexus/Images/VideoScreen/10-MESHY.AI/3.PNG
+  artifactKey: Guid(ec2ef72af975e8b4ca99f7849adb7537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/10-MESHY.AI/3.PNG using Guid(ec2ef72af975e8b4ca99f7849adb7537) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '847fda53d7265d10cfe9c90b86104a85') in 0.190062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.201563 seconds.
+  path: Assets/AINexus/Images/VideoScreen/10-MESHY.AI/3.PNG
+  artifactKey: Guid(ec2ef72af975e8b4ca99f7849adb7537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/10-MESHY.AI/3.PNG using Guid(ec2ef72af975e8b4ca99f7849adb7537) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '46c8bc6db581ea64bb66c44bae6a56d3') in 0.038559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 974.416995 seconds.
+  path: Assets/AINexus/Images/VideoScreen/11-VİDEOEFFEKTS.AI
+  artifactKey: Guid(2042fac239be9fc4a8e1f5a9af5e0d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/11-VİDEOEFFEKTS.AI using Guid(2042fac239be9fc4a8e1f5a9af5e0d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '99c3b5e99f76b1ed49bad066bf3548b6') in 0.020247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.339528 seconds.
+  path: Assets/AINexus/Images/VideoScreen/11-VİDEOEFFEKTS.AI/5.PNG
+  artifactKey: Guid(e4e02d090f9b8414b891d9cef9d86ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/11-VİDEOEFFEKTS.AI/5.PNG using Guid(e4e02d090f9b8414b891d9cef9d86ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '349a6f4fbcdd62f57ea3195d59ee4135') in 0.183182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.631370 seconds.
+  path: Assets/AINexus/Images/VideoScreen/11-VİDEOEFFEKTS.AI/5.PNG
+  artifactKey: Guid(e4e02d090f9b8414b891d9cef9d86ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/11-VİDEOEFFEKTS.AI/5.PNG using Guid(e4e02d090f9b8414b891d9cef9d86ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '50a4078871b4e69981995f788627879a') in 0.077122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3051.977367 seconds.
+  path: Assets/AINexus/Images/VideoScreen/12-LUMALABS.AI
+  artifactKey: Guid(3a7310d191f4e5f40a989f2957f6455b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/12-LUMALABS.AI using Guid(3a7310d191f4e5f40a989f2957f6455b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '72d48638947cd792f36d51e59d0b40dd') in 0.027361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.637863 seconds.
+  path: Assets/AINexus/Images/VideoScreen/12-LUMALABS.AI/5.PNG
+  artifactKey: Guid(fe9b2ca65921abe449386b8c01302d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/12-LUMALABS.AI/5.PNG using Guid(fe9b2ca65921abe449386b8c01302d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0974352564b36dbb53b9b3a27be77d34') in 0.394725 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.207089 seconds.
+  path: Assets/AINexus/Images/VideoScreen/12-LUMALABS.AI/5.PNG
+  artifactKey: Guid(fe9b2ca65921abe449386b8c01302d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/12-LUMALABS.AI/5.PNG using Guid(fe9b2ca65921abe449386b8c01302d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b1f2cc73464d9cd1cac2ea7f607c0949') in 0.100851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.027 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 20.577 seconds
+Domain Reload Profiling: 26602ms
+	BeginReloadAssembly (891ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (45ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (386ms)
+	RebuildCommonClasses (316ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (77ms)
+	LoadAllAssembliesAndSetupDomain (4722ms)
+		LoadAssemblies (4974ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (51ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (20579ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1749ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (65ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (204ms)
+			ProcessInitializeOnLoadAttributes (1361ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (28ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Refreshing native plugins compatible for Editor in 5.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3150 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3657.
+Memory consumption went from 123.9 MB to 123.9 MB.
+Total: 11.388600 ms (FindLiveObjects: 0.524700 ms CreateObjectMapping: 0.184700 ms MarkObjects: 10.544300 ms  DeleteObjects: 0.121900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1377.911293 seconds.
+  path: Assets/AINexus/Scenes/VideoScreen/VİdeoScreen.unity
+  artifactKey: Guid(cc28a41ddf1d3b441a52d38e21384820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Scenes/VideoScreen/VİdeoScreen.unity using Guid(cc28a41ddf1d3b441a52d38e21384820) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4acbaea77ece095f5f8834e719358b8b') in 0.034038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2442.732481 seconds.
+  path: Assets/AINexus/Images/VideoScreen/13-LENSGO.AI
+  artifactKey: Guid(4d19479038fec8a4c9f83d119fc224e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/13-LENSGO.AI using Guid(4d19479038fec8a4c9f83d119fc224e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'eb150510bec05b3893b60e914897c2b7') in 0.005670 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.499362 seconds.
+  path: Assets/AINexus/Images/VideoScreen/13-LENSGO.AI/YOUTUBE-CHANNEL.PNG
+  artifactKey: Guid(51fa2ac85cd7ea446b1c0426fa17a157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/13-LENSGO.AI/YOUTUBE-CHANNEL.PNG using Guid(51fa2ac85cd7ea446b1c0426fa17a157) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '187aa75f536f793f62eee5865b831945') in 0.233572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.958714 seconds.
+  path: Assets/AINexus/Images/VideoScreen/13-LENSGO.AI/YOUTUBE-CHANNEL.PNG
+  artifactKey: Guid(51fa2ac85cd7ea446b1c0426fa17a157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/13-LENSGO.AI/YOUTUBE-CHANNEL.PNG using Guid(51fa2ac85cd7ea446b1c0426fa17a157) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '924cc0bd0ea2d23b282f125b07b0dad6') in 0.117977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 672.129014 seconds.
+  path: Assets/AINexus/Images/VideoScreen/14-AKOOL.AI
+  artifactKey: Guid(b1c890c72b58cd740b6e8b6bd475ab79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/14-AKOOL.AI using Guid(b1c890c72b58cd740b6e8b6bd475ab79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'abf17e47f64f55a3524dcd60910052c4') in 0.040662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.517090 seconds.
+  path: Assets/AINexus/Images/VideoScreen/14-AKOOL.AI/2.PNG
+  artifactKey: Guid(8b6d422a55f130b4bb47526920ea1709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/14-AKOOL.AI/2.PNG using Guid(8b6d422a55f130b4bb47526920ea1709) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '97e59b4c0e8daab2bc41bbec8b6cd593') in 0.378759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.384380 seconds.
+  path: Assets/AINexus/Images/VideoScreen/14-AKOOL.AI/2.PNG
+  artifactKey: Guid(8b6d422a55f130b4bb47526920ea1709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/14-AKOOL.AI/2.PNG using Guid(8b6d422a55f130b4bb47526920ea1709) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7e74908fa8e0af31772c65f0e78d7972') in 0.100064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1173.473767 seconds.
+  path: Assets/AINexus/Images/VideoScreen/15-DUBDUB.AI
+  artifactKey: Guid(2a401e12afb567049a04f3fedb4c8b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/15-DUBDUB.AI using Guid(2a401e12afb567049a04f3fedb4c8b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '76cb1006fb9f314558811a5644fdc1ee') in 0.028840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.195948 seconds.
+  path: Assets/AINexus/Images/VideoScreen/15-DUBDUB.AI/6.PNG
+  artifactKey: Guid(b0ef47a6698f93a4da9bdff3a9b9dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/15-DUBDUB.AI/6.PNG using Guid(b0ef47a6698f93a4da9bdff3a9b9dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f228474d7e350de45d3b381087a355f7') in 0.294116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.021646 seconds.
+  path: Assets/AINexus/Images/VideoScreen/15-DUBDUB.AI/6.PNG
+  artifactKey: Guid(b0ef47a6698f93a4da9bdff3a9b9dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/15-DUBDUB.AI/6.PNG using Guid(b0ef47a6698f93a4da9bdff3a9b9dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a759bc7ce9b69fd7ca4db7367ff65d10') in 0.125247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 736.281569 seconds.
+  path: Assets/AINexus/Images/VideoScreen/16-TOPVİEW.AI
+  artifactKey: Guid(e817ff3b09712fa47be714bcd017ba8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/16-TOPVİEW.AI using Guid(e817ff3b09712fa47be714bcd017ba8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'de32995d777a31a1cfefd192da5069a7') in 0.025285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.184013 seconds.
+  path: Assets/AINexus/Images/VideoScreen/16-TOPVİEW.AI/5.PNG
+  artifactKey: Guid(57775fb39ed8bef428b87cbe77ba7701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/16-TOPVİEW.AI/5.PNG using Guid(57775fb39ed8bef428b87cbe77ba7701) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3157012fb25c6c4086322080e5b4ec84') in 0.310046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.482225 seconds.
+  path: Assets/AINexus/Images/VideoScreen/16-TOPVİEW.AI/5.PNG
+  artifactKey: Guid(57775fb39ed8bef428b87cbe77ba7701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/16-TOPVİEW.AI/5.PNG using Guid(57775fb39ed8bef428b87cbe77ba7701) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '312eaf6db200ee16b5d8b5bc2a62d987') in 0.138388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2324.548707 seconds.
+  path: Assets/AINexus/Images/VideoScreen/17-HEDRA.AI
+  artifactKey: Guid(29a9fcb4acf3cd84f9771a0e4f93a6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/17-HEDRA.AI using Guid(29a9fcb4acf3cd84f9771a0e4f93a6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '11f32e95d4ebe6bd878c973d8f9d1cb3') in 0.024064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.780987 seconds.
+  path: Assets/AINexus/Images/VideoScreen/17-HEDRA.AI/YOUTUBE-CHANNEL.PNG
+  artifactKey: Guid(995cce53db0daec4a9c47932daed7284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/17-HEDRA.AI/YOUTUBE-CHANNEL.PNG using Guid(995cce53db0daec4a9c47932daed7284) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1c613211f7c25fc10d9a2770001a5a17') in 0.354849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.559409 seconds.
+  path: Assets/AINexus/Images/VideoScreen/17-HEDRA.AI/YOUTUBE-CHANNEL.PNG
+  artifactKey: Guid(995cce53db0daec4a9c47932daed7284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/17-HEDRA.AI/YOUTUBE-CHANNEL.PNG using Guid(995cce53db0daec4a9c47932daed7284) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c93eb03556c5438cf34a11249c75f2d8') in 0.192277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 510.690715 seconds.
+  path: Assets/AINexus/Images/VideoScreen/18-FACELESS.AI
+  artifactKey: Guid(d4a6f7d4356f60947b7f01e882c3df20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/18-FACELESS.AI using Guid(d4a6f7d4356f60947b7f01e882c3df20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '43560704489f2da732b4ddb66875caf1') in 0.022065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.591612 seconds.
+  path: Assets/AINexus/Images/VideoScreen/18-FACELESS.AI/1.PNG
+  artifactKey: Guid(3de2e44043dbca944b0cfe1c0d3de084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/18-FACELESS.AI/1.PNG using Guid(3de2e44043dbca944b0cfe1c0d3de084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ebc85545b5fc2bef2769df55e407549d') in 0.306068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.268402 seconds.
+  path: Assets/AINexus/Images/VideoScreen/18-FACELESS.AI/1.PNG
+  artifactKey: Guid(3de2e44043dbca944b0cfe1c0d3de084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/18-FACELESS.AI/1.PNG using Guid(3de2e44043dbca944b0cfe1c0d3de084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8be7bb415ea7b8719a6481b8ed11e104') in 0.122140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 697.989410 seconds.
+  path: Assets/AINexus/Images/VideoScreen/19-HİTPAW.AI
+  artifactKey: Guid(6040d85da903f2f45a323add6a3941ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/19-HİTPAW.AI using Guid(6040d85da903f2f45a323add6a3941ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5934ca30a5c897c8b3326b0379f9df17') in 0.021049 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.647973 seconds.
+  path: Assets/AINexus/Images/VideoScreen/19-HİTPAW.AI/2.PNG
+  artifactKey: Guid(ad425cbb26a4edb4ea187600c8f6ad37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/19-HİTPAW.AI/2.PNG using Guid(ad425cbb26a4edb4ea187600c8f6ad37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '92668c295cc16c136c2773a1470baacb') in 0.300268 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 66.385473 seconds.
+  path: Assets/AINexus/Images/VideoScreen/19-HİTPAW.AI/2.PNG
+  artifactKey: Guid(ad425cbb26a4edb4ea187600c8f6ad37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/19-HİTPAW.AI/2.PNG using Guid(ad425cbb26a4edb4ea187600c8f6ad37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ca41586601c669dc5ef1d8edfcbf54f9') in 0.087429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 538.853914 seconds.
+  path: Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI
+  artifactKey: Guid(98ba850f38069144fb63de5c04c22c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI using Guid(98ba850f38069144fb63de5c04c22c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3ea2b1c1f47e969c5e94d72c25b2bdf6') in 0.020659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.438057 seconds.
+  path: Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI/2.PNG
+  artifactKey: Guid(4b15f4763d9b10746b3cce469c986c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI/2.PNG using Guid(4b15f4763d9b10746b3cce469c986c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1988bf4c7b4d21b3f1d0b4f26a9629d2') in 0.296776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.681443 seconds.
+  path: Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI/2.PNG
+  artifactKey: Guid(4b15f4763d9b10746b3cce469c986c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI/2.PNG using Guid(4b15f4763d9b10746b3cce469c986c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '01a9f314a27f082bdeaa93d9ecd2e3e4') in 0.164306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.887178 seconds.
+  path: Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI/1.PNG
+  artifactKey: Guid(4483399d79d70a24f8b9a3c63da1561e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/20-COPYCAPTER.AI/1.PNG using Guid(4483399d79d70a24f8b9a3c63da1561e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '241687a08b20587feeee31a6a39e4c72') in 0.080517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 497.924798 seconds.
+  path: Assets/AINexus/Images/VideoScreen/21-İNVİDEO.AI
+  artifactKey: Guid(540a60990c0a7c348a5fb9ef0e39485f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/21-İNVİDEO.AI using Guid(540a60990c0a7c348a5fb9ef0e39485f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '96810d6b7799e4f563d4c21f0e3ebe49') in 0.023846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.902223 seconds.
+  path: Assets/AINexus/Images/VideoScreen/21-İNVİDEO.AI/2.PNG
+  artifactKey: Guid(2d7fb3ecf1bb8c04a9c7a20009db6094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/21-İNVİDEO.AI/2.PNG using Guid(2d7fb3ecf1bb8c04a9c7a20009db6094) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e8a947c34779ce8ee3611205c0de1d51') in 0.341384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.921088 seconds.
+  path: Assets/AINexus/Images/VideoScreen/21-İNVİDEO.AI/2.PNG
+  artifactKey: Guid(2d7fb3ecf1bb8c04a9c7a20009db6094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AINexus/Images/VideoScreen/21-İNVİDEO.AI/2.PNG using Guid(2d7fb3ecf1bb8c04a9c7a20009db6094) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5dd10c2e171fa51e317b470cdf8721b5') in 0.114253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3

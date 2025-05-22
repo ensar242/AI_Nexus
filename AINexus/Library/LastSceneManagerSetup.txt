@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/AINexus/Scenes/VideoScreen/V\u0130deoScreen.unity"
+- path: Assets/AINexus/Scenes/ImageScreen/ImageScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

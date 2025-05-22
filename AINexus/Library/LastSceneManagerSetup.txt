@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/AINexus/Scenes/ImageScreen/ImageScreen.unity
+- path: "Assets/AINexus/Scenes/ARTICLE-OR-WRITING-SCENES/ARTICLE-OR-WR\u0130T\u0130NG-SCREEN.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
